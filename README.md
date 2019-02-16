@@ -1,1 +1,5 @@
-#My exercism
+# My exercises
+This repo contains my golang exercises from [exercism.io][exercism]
+[exercism]: https://exercism.io/tracks/go
+
+Note, that in most exercises what I'm given from the platform is the test suite - the documentation and non-test packages are made by me.
